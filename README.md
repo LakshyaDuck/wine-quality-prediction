@@ -25,3 +25,9 @@ Datasets are included in the `data/` folder for reproducibility.
 
 ## How to Run
 Open the notebook:
+notebooks/wine_quality_prediction.ipynb
+
+and run all cells.
+
+## Purpose
+This is a **foundational ML project** focused on learning core mechanics before moving to advanced models and deployment.
